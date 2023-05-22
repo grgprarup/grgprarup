@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 
 ## Github Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grgprarup&theme=dark&fire=red&ring=red&hide_border=true)](https://git.io/streak-stats)
+
+## 🏆Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=grgprarup&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
