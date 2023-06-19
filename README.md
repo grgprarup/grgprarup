@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Profile
-- 🔭 I’m currently working as Jr. Programmer at [JankariTech Pvt. Ltd.](https://www.jankaritech.com/) and QA Engineer at [Owncloud](https://github.com/owncloud)
+- 🔭 I’m currently working as [Software Developer](https://www.jankaritech.com/team#:~:text=PRARUP%20GURUNG,Software%20Developer) at [JankariTech Pvt. Ltd.](https://www.jankaritech.com/) and QA Engineer at [Owncloud](https://github.com/owncloud)
 - ⚡ Worked with [Programiz](https://www.programiz.com/), written e2e tests
 - 👯 I’m looking to collaborate on Machine Learning, Deep Learning, FOSS.
 - 📫 How to reach me: grgprarup@gmail.com
