@@ -1,7 +1,7 @@
 [![@grgprarup's Holopin board](https://holopin.me/grgprarup)](https://holopin.io/@grgprarup)
 
 ## Hi there, I'm Prarup👋
-I'm Prarup Gurung, a full-time software developer and part-time Lecturer. Also, an Machine Learning enthusiast. Also, love to play games and travel.
+I'm Prarup Gurung, a full-time software developer, part-time lecturer, and Machine Learning enthusiast. Passionate about coding, teaching, and exploring the realms of technology. Also, I enjoy gaming and traveling. Let's innovate together!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grgprarup&color=blue&style=plastic&label=Profile+Views)
 
