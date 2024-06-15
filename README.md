@@ -4,6 +4,7 @@
 I'm Prarup Gurung, a full-time software developer, part-time lecturer, and Machine Learning enthusiast. Passionate about coding, teaching, and exploring the realms of technology. Also, I enjoy gaming and traveling. Let's innovate together!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grgprarup&color=blue&style=plastic&label=Profile+Views)
+[![committers.top badge](https://user-badge.committers.top/nepal_private/grgprarup.svg)](https://user-badge.committers.top/nepal_private/grgprarup)
 
 ## Profile
 - 🔭 I’m currently working as [Software Developer](https://www.jankaritech.com/team#:~:text=PRARUP%20GURUNG,Software%20Developer) at [JankariTech Pvt. Ltd.](https://www.jankaritech.com/) and QA Engineer at [Owncloud](https://github.com/owncloud)
